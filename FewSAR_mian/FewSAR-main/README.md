@@ -33,17 +33,11 @@ Please refer to [install.md](https://libfewshot-en.readthedocs.io/en/latest/inst
 
 Complete tutorials can be found at [document](https://libfewshot-en.readthedocs.io/en/latest/)([中文文档](https://libfewshot-en.readthedocs.io/zh_CN/latest/index.html)).
 
-## Datasets
-[Caltech-UCSD Birds-200-2011](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html), [Standford Cars](https://ai.stanford.edu/~jkrause/cars/car_dataset.html), [Standford Dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/main.html) and [*mini*ImageNet](https://arxiv.org/abs/1606.04080v2) are available at [Google Drive](https://drive.google.com/drive/u/1/folders/1SEoARH5rADckI-_gZSQRkLclrunL-yb0) and [百度网盘(提取码：yr1w)](https://pan.baidu.com/s/1M3jFo2OI5GTOpytxgtO1qA).
-
-## Contributing
-Please feel free to contribute any kind of functions or enhancements, where the coding style follows PEP 8. Please kindly refer to [contributing.md](https://libfewshot-en.readthedocs.io/en/latest/contributing.html)([贡献代码](https://libfewshot-en.readthedocs.io/zh_CN/latest/contributing.html)) for the contributing guidelines.
-
 ## License
 This project is licensed under the MIT License. See LICENSE for more details.
 
 ## Acknowledgement
-LibFewShot is an open source project designed to help few-shot learning researchers quickly understand the classic methods and code structures. We welcome other contributors to use this framework to implement their own or other impressive methods and add them to LibFewShot. This library can only be used for academic research. We welcome any feedback during using LibFewShot and will try our best to continually improve the library.
+FewSAR is an open source project designed to help few-shot SAR image classification researchers quickly understand the classic methods and code structures. We welcome other contributors to use this framework to implement their own or other impressive methods and add them to FewSAR. This library can only be used for academic research. We welcome any feedback during using FewSAR and will try our best to continually improve the library.
 
 ## Citation
 If you use this code for your research, please cite our paper.
