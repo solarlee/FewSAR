@@ -1,8 +1,8 @@
-# [FewSAR](https://arxiv.org/abs/2109.04898)
+# [FewSAR](https://arxiv.org/abs/2306.09592)
 Make few-shot SAR image classification easy.
 
-[LibFewShot: A Comprehensive Library for Few-shot Learning](https://arxiv.org/abs/2109.04898).
-Wenbin Li, Chuanqi Dong, Pinzhuo Tian, Tiexin Qin, Xuesong Yang, Ziyi Wang, Jing Huo, Yinghuan Shi, Lei Wang, Yang Gao, Jiebo Luo. In arXiv 2021.<br>
+[FewSAR: A Few-shot SAR Image Classification Benchmark](https://arxiv.org/abs/2306.09592).
+Rui Zhang, Ziqi Wang, Yang Li, Jiabao Wang, Zhiteng Wang. In arXiv 2023.<br>
 <img src='flowchart.png' width=1000/>
 
 ## Supported Methods
