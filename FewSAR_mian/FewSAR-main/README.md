@@ -1,5 +1,5 @@
-# [LibFewShot](https://arxiv.org/abs/2109.04898)
-Make few-shot learning easy.
+# [FewSAR](https://arxiv.org/abs/2109.04898)
+Make few-shot SAR image classification easy.
 
 [LibFewShot: A Comprehensive Library for Few-shot Learning](https://arxiv.org/abs/2109.04898).
 Wenbin Li, Chuanqi Dong, Pinzhuo Tian, Tiexin Qin, Xuesong Yang, Ziyi Wang, Jing Huo, Yinghuan Shi, Lei Wang, Yang Gao, Jiebo Luo. In arXiv 2021.<br>
