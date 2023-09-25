@@ -40,8 +40,27 @@ This project is licensed under the MIT License. See LICENSE for more details.
 FewSAR is an open source project designed to help few-shot SAR image classification researchers quickly understand the classic methods and code structures. We welcome other contributors to use this framework to implement their own or other impressive methods and add them to FewSAR. This library can only be used for academic research. We welcome any feedback during using FewSAR and will try our best to continually improve the library.
 
 ## Citation
-If you use this code for your research, please cite our paper.
+If you use this code for your research, please cite following paper.
 ```
+@article{DBLP:journals/corr/abs-2306-09592,
+  author       = {Rui Zhang and
+                  Ziqi Wang and
+                  Yang Li and
+                  Jiabao Wang and
+                  Zhiteng Wang},
+  title        = {FewSAR: {A} Few-shot {SAR} Image Classification Benchmark},
+  journal      = {CoRR},
+  volume       = {abs/2306.09592},
+  year         = {2023},
+  url          = {https://doi.org/10.48550/arXiv.2306.09592},
+  doi          = {10.48550/arXiv.2306.09592},
+  eprinttype    = {arXiv},
+  eprint       = {2306.09592},
+  timestamp    = {Thu, 22 Jun 2023 16:55:52 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2306-09592.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
 @article{li2021LibFewShot,
   title={LibFewShot: A Comprehensive Library for Few-shot Learning},
   author={Li, Wenbin and Dong, Chuanqi and Tian, Pinzhuo and Qin, Tiexin and Yang, Xuesong and Wang, Ziyi and Huo Jing and Shi, Yinghuan and Wang, Lei and Gao, Yang and Luo, Jiebo},
