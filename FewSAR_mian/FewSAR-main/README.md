@@ -3,7 +3,6 @@ Make few-shot SAR image classification easy.
 
 [FewSAR: A Few-shot SAR Image Classification Benchmark](https://arxiv.org/abs/2306.09592).
 Rui Zhang, Ziqi Wang, Yang Li, Jiabao Wang, Zhiteng Wang. In arXiv 2023.<br>
-<img src='flowchart.png' width=1000/>
 
 ## Supported Methods
 ### Fine-tuning based methods
