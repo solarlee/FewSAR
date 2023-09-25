@@ -23,9 +23,7 @@ Wenbin Li, Chuanqi Dong, Pinzhuo Tian, Tiexin Qin, Xuesong Yang, Ziyi Wang, Jing
 + [RelationNet (CVPR 2018)](https://arxiv.org/abs/1711.06025)
 + [ConvaMNet (AAAI 2019)](https://ojs.aaai.org//index.php/AAAI/article/view/4885)
 + [DN4 (CVPR 2019)](https://arxiv.org/abs/1903.12290)
-+ [CAN (NeurIPS 2019)](https://arxiv.org/abs/1910.07677)
 + [ATL-Net (IJCAI 2020)](https://www.ijcai.org/proceedings/2020/0100.pdf)
-+ [ADM (IJCAI 2020)](https://arxiv.org/abs/2002.00153)
 + [FEAT (CVPR 2020)](http://arxiv.org/abs/1812.03664)
 
 
