@@ -1,0 +1,9 @@
+backbone:
+  name: Conv64F               #骨干的名称需要匹配Libfewshot中实现的骨干的情况。
+  kwargs:                      #骨干网中使用的参数必须保持名称与代码中的名称一致。
+    is_flatten: False          #默认值为false，如果为true，则返回Flatten后的特征向量。
+    is_feature: False           #默认值为false，如果为true，则返回主干网中每个块的输出。
+    leaky_relu: False
+    negative_slope: 0.2
+    last_pool: False
+    maxpool_last2: True

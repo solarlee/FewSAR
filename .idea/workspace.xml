@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb726af7-ed3a-4c37-8d2d-d1eeaca22464" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="266JeKKYCKtt76Iqgf0mdX3c8wU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\LibFew-shot\LibFew-shot_mian\LibFewShot-main\config\classifiers" />
+      <recent name="E:\LibFew-shot\LibFew-shot_mian\LibFewShot-main\config" />
+      <recent name="E:\LibFew-shot\LibFew-shot_mian\LibFewShot-main\core\model\meta" />
+      <recent name="E:\LibFew-shot\LibFew-shot_mian\LibFewShot-main\core\model\metric" />
+      <recent name="E:\LibFew-shot\LibFew-shot_mian\LibFewShot-main\core\model\finetuning" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\LibFew-shot\LibFew-shot_mian\LibFewShot-main\core" />
+      <recent name="E:\LibFew-shot\LibFew-shot_mian\LibFewShot-main\core\model\Attention" />
+      <recent name="E:\LibFew-shot\LibFew-shot_mian\LibFewShot-main\core\utils" />
+      <recent name="E:\LibFew-shot\LibFew-shot_mian\LibFewShot-main\results" />
+      <recent name="E:\LibFew-shot\LibFew-shot_mian\LibFewShot-main\core\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_trainer">
+    <configuration name="Feature_Visual (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LibFew-shot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main/Feature_Visual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Feature_visual" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LibFew-shot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main/core/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main/core/model/Feature_visual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Visual" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LibFew-shot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main/Visual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_trainer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LibFew-shot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main/run_trainer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LibFew-shot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main/core/trainer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_trainer" />
+        <item itemvalue="Python.trainer" />
+        <item itemvalue="Python.Feature_Visual (1)" />
+        <item itemvalue="Python.Feature_visual" />
+        <item itemvalue="Python.Visual" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb726af7-ed3a-4c37-8d2d-d1eeaca22464" name="Default Changelist" comment="" />
+      <created>1646738208804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646738208804</updated>
+      <workItem from="1646738210014" duration="77000" />
+      <workItem from="1646835959034" duration="13000" />
+      <workItem from="1649234161811" duration="13000" />
+      <workItem from="1649234175844" duration="69000" />
+      <workItem from="1649234446309" duration="101000" />
+      <workItem from="1649234977496" duration="51000" />
+      <workItem from="1649235647979" duration="89000" />
+      <workItem from="1649235752098" duration="292000" />
+      <workItem from="1649251264147" duration="17000" />
+      <workItem from="1649251317796" duration="374000" />
+      <workItem from="1649252018243" duration="295000" />
+      <workItem from="1649252418512" duration="72000" />
+      <workItem from="1649252840045" duration="16000" />
+      <workItem from="1649314523673" duration="46000" />
+      <workItem from="1649314627059" duration="32000" />
+      <workItem from="1649314705411" duration="120000" />
+      <workItem from="1650500052153" duration="468000" />
+      <workItem from="1650590133343" duration="495000" />
+      <workItem from="1650897835892" duration="228000" />
+      <workItem from="1650935324744" duration="366000" />
+      <workItem from="1650936164613" duration="378000" />
+      <workItem from="1651111787933" duration="5000" />
+      <workItem from="1651225484065" duration="1078000" />
+      <workItem from="1651292099793" duration="423000" />
+      <workItem from="1651292722582" duration="8676000" />
+      <workItem from="1651674189942" duration="1671000" />
+      <workItem from="1651881022116" duration="444000" />
+      <workItem from="1652946928817" duration="441000" />
+      <workItem from="1653815058033" duration="165000" />
+      <workItem from="1654499854108" duration="1924000" />
+      <workItem from="1654584302091" duration="6685000" />
+      <workItem from="1654758671105" duration="5732000" />
+      <workItem from="1654828043251" duration="496000" />
+      <workItem from="1654842823643" duration="102000" />
+      <workItem from="1655017149591" duration="6264000" />
+      <workItem from="1655080257030" duration="6228000" />
+      <workItem from="1655090356222" duration="370000" />
+      <workItem from="1655104845535" duration="5334000" />
+      <workItem from="1655113134593" duration="3000" />
+      <workItem from="1655167377148" duration="9125000" />
+      <workItem from="1655188918438" duration="9316000" />
+      <workItem from="1655253976845" duration="7872000" />
+      <workItem from="1655278534477" duration="5172000" />
+      <workItem from="1655340965982" duration="14901000" />
+      <workItem from="1655369753598" duration="410000" />
+      <workItem from="1655684786560" duration="2546000" />
+      <workItem from="1655688490688" duration="6675000" />
+      <workItem from="1655707348864" duration="8316000" />
+      <workItem from="1655775675147" duration="2961000" />
+      <workItem from="1655780465499" duration="3000" />
+      <workItem from="1655857548083" duration="6882000" />
+      <workItem from="1655880350214" duration="7064000" />
+      <workItem from="1656289679017" duration="8824000" />
+      <workItem from="1656300226034" duration="183000" />
+      <workItem from="1656398559016" duration="4047000" />
+      <workItem from="1657072695115" duration="686000" />
+      <workItem from="1657111163261" duration="303000" />
+      <workItem from="1657357638282" duration="27000" />
+      <workItem from="1657357717155" duration="265000" />
+      <workItem from="1657498919660" duration="2169000" />
+      <workItem from="1657501391926" duration="963000" />
+      <workItem from="1657502377810" duration="37000" />
+      <workItem from="1657502442124" duration="5403000" />
+      <workItem from="1657527719430" duration="5573000" />
+      <workItem from="1657541536495" duration="411000" />
+      <workItem from="1657542805856" duration="134000" />
+      <workItem from="1657542954120" duration="228000" />
+      <workItem from="1657585499424" duration="772000" />
+      <workItem from="1657589378311" duration="2036000" />
+      <workItem from="1657592909577" duration="1204000" />
+      <workItem from="1657614077157" duration="146000" />
+      <workItem from="1657624070246" duration="594000" />
+      <workItem from="1657672015491" duration="2572000" />
+      <workItem from="1661344445407" duration="64000" />
+      <workItem from="1661344555940" duration="32000" />
+      <workItem from="1661344688540" duration="870000" />
+      <workItem from="1662620999791" duration="348000" />
+      <workItem from="1663038476569" duration="781000" />
+      <workItem from="1663138195504" duration="472000" />
+      <workItem from="1664152582545" duration="20000" />
+      <workItem from="1664157557666" duration="17000" />
+      <workItem from="1664159607536" duration="547000" />
+      <workItem from="1664242358776" duration="873000" />
+      <workItem from="1664415212315" duration="4350000" />
+      <workItem from="1664420404092" duration="1373000" />
+      <workItem from="1664436780956" duration="8745000" />
+      <workItem from="1664455528980" duration="5000" />
+      <workItem from="1664455593816" duration="390000" />
+      <workItem from="1664498377059" duration="4314000" />
+      <workItem from="1664779905956" duration="1544000" />
+      <workItem from="1664784566965" duration="1188000" />
+      <workItem from="1664844282553" duration="5339000" />
+      <workItem from="1665048556339" duration="7000" />
+      <workItem from="1665448943181" duration="1909000" />
+      <workItem from="1665475847111" duration="1045000" />
+      <workItem from="1665478490810" duration="1878000" />
+      <workItem from="1665535491930" duration="4504000" />
+      <workItem from="1665574300203" duration="39000" />
+      <workItem from="1665575624976" duration="616000" />
+      <workItem from="1665619620544" duration="3000" />
+      <workItem from="1665619780829" duration="6367000" />
+      <workItem from="1665643295374" duration="3725000" />
+      <workItem from="1665662851684" duration="2041000" />
+      <workItem from="1665708434091" duration="1219000" />
+      <workItem from="1665713761311" duration="1686000" />
+      <workItem from="1665715705794" duration="1613000" />
+      <workItem from="1666055379996" duration="4755000" />
+      <workItem from="1666077987834" duration="3005000" />
+      <workItem from="1666081188013" duration="2824000" />
+      <workItem from="1666162706171" duration="4086000" />
+      <workItem from="1666232743129" duration="896000" />
+      <workItem from="1666578397465" duration="2335000" />
+      <workItem from="1666594432270" duration="1453000" />
+      <workItem from="1666682773457" duration="7716000" />
+      <workItem from="1666831653834" duration="44000" />
+      <workItem from="1666832295908" duration="1189000" />
+      <workItem from="1666840189222" duration="612000" />
+      <workItem from="1666869642097" duration="730000" />
+      <workItem from="1667180621760" duration="8853000" />
+      <workItem from="1667205387880" duration="521000" />
+      <workItem from="1667206267970" duration="6000" />
+      <workItem from="1670240890995" duration="627000" />
+      <workItem from="1679381072382" duration="54000" />
+      <workItem from="1680091123485" duration="821000" />
+      <workItem from="1682647650755" duration="61000" />
+      <workItem from="1683359984238" duration="644000" />
+      <workItem from="1686137880318" duration="67000" />
+      <workItem from="1686137976793" duration="24000" />
+      <workItem from="1686138011048" duration="56000" />
+      <workItem from="1695611139684" duration="79000" />
+      <workItem from="1695611236935" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main/core/model/metric/can.py</url>
+          <line>342</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LibFew_shot$relation_net.coverage" NAME="relation_net Coverage Results" MODIFIED="1655086286240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main/core/model/metric" />
+    <SUITE FILE_PATH="coverage/LibFew_shot$Feature_Visual.coverage" NAME="Feature_Visual Coverage Results" MODIFIED="1657586047839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main/core/model" />
+    <SUITE FILE_PATH="coverage/LibFew_shot$Feature_visual.coverage" NAME="Feature_visual Coverage Results" MODIFIED="1657674365380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main/core/model" />
+    <SUITE FILE_PATH="coverage/LibFew_shot$run_trainer.coverage" NAME="run_trainer 覆盖结果" MODIFIED="1667184972661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main" />
+    <SUITE FILE_PATH="coverage/LibFew_shot$Visual.coverage" NAME="Visual Coverage Results" MODIFIED="1657592582393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main" />
+    <SUITE FILE_PATH="coverage/LibFew_shot$trainer.coverage" NAME="trainer 覆盖结果" MODIFIED="1666690386549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main/core" />
+    <SUITE FILE_PATH="coverage/LibFew_shot_FewSAR$run_trainer.coverage" NAME="run_trainer 覆盖结果" MODIFIED="1680091441676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main" />
+    <SUITE FILE_PATH="coverage/LibFew_shot$Feature_Visual__1_.coverage" NAME="Feature_Visual (1) Coverage Results" MODIFIED="1657674471744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibFew-shot_mian/LibFewShot-main" />
+  </component>
+</project>

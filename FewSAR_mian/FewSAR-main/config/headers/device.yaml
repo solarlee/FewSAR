@@ -1,0 +1,5 @@
+#该文件中定义了GPU的相关配置
+device_ids: 0    # determine GPU ids in bus order，GPU编号与NVIDIA-SMI命令相同。
+n_gpu: 1      # select the number of gpus to use，训练中使用的平行GPU数量，如果为1，不能适用于平行训练。
+seed: 0       # random seed for numpy, torch and cuda，用于Numpy，Torch和Cuda的seed points.
+deterministic: True      # option for torch.backends.cudnn.benchmark  and torch.backends.cudnn.deterministic,是否要打开torch.backend.cudnn.bench.bench.backend.cudnn.deterministic以及是否在训练过程中确定随机种子。

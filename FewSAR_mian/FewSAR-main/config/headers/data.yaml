@@ -1,0 +1,7 @@
+#数据的相关配置在此文件中定义
+data_root: E:\LibFew-shot\dataset\MSTAR             #数据集的存储路径。
+image_size: 84                      #输入图像的大小。
+use_memory: False                   #是否使用记忆来加速阅读。
+augment: True                       #是否使用数据增强。
+augment_times: 1                     #所使用的数据增强/转换的数量。将支持集数据扩展多次。
+augment_times_query: 1               #所使用的数据增强/转换的数量。将查询集数据扩展多次。

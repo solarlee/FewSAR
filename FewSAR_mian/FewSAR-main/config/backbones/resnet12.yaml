@@ -1,0 +1,7 @@
+backbone:
+  name: resnet12
+  kwargs:
+    keep_prob: 0.0
+    avg_pool: True             #默认值为false，如果为true，则返回全局平均池之后的特征向量。
+    is_flatten: True
+    maxpool_last2: True

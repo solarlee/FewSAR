@@ -1,0 +1,37 @@
+#该文件中定义了用于训练的优化器的相关配置。
+# optimizer info
+optimizer:
+  name: Adam           #优化器的名称仅临时支持Pytorch提供的所有优化器。
+  kwargs:              #优化器中使用的参数，名称必须与Pytorch Optimizer所需的参数名称相同。
+    lr: 0.001
+  other:               #当前，该框架仅支持单独指定方法的每个部分使用的学习率，并且该名称必须与该方法中使用的变量名称相同。
+    emb_func: 0.001 # define lr OR
+#    another_part:    # define multi params
+#      lr: 0.1
+#      weight_decay: 0.5
+
+
+# lr_scheduler info
+lr_scheduler:          #训练期间使用的学习率调整策略仅临时支持Pytorch提供的所有学习率调整策略。
+  name: StepLR         #学习率调整策略的名称。
+  kwargs:              #Pytorch中学习率调整策略中使用的其他参数。
+    gamma: 0.7
+    step_size: 10
+
+#optimizer:
+#  name: Adan           #优化器的名称仅临时支持Pytorch提供的所有优化器。
+#  kwargs:              #优化器中使用的参数，名称必须与Pytorch Optimizer所需的参数名称相同。
+#    lr: 0.001
+#  other:               #当前，该框架仅支持单独指定方法的每个部分使用的学习率，并且该名称必须与该方法中使用的变量名称相同。
+#    emb_func: 0.001 # define lr OR
+##    another_part:    # define multi params
+##      lr: 0.1
+##      weight_decay: 0.5
+#
+#
+## lr_scheduler info
+#lr_scheduler:          #训练期间使用的学习率调整策略仅临时支持Pytorch提供的所有学习率调整策略。
+#  name: StepLR         #学习率调整策略的名称。
+#  kwargs:              #Pytorch中学习率调整策略中使用的其他参数。
+#    gamma: 0.5
+#    step_size: 10

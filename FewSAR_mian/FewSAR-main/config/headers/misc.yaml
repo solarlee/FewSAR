@@ -1,0 +1,13 @@
+#此文件中定义了其他配置。
+# log settings
+log_name: ~    # if not ~: use for log file's namel,如果为空，使用自动生成的分类器.name-data_root-backbone-way_num-shot_num文件目录。
+log_level: info
+log_interval: 100     #日志输出间隔的任务数。
+log_paramerter: False   # save the parameter as histogram or not
+
+result_root: ./results      #结果的根路径
+save_interval: 10           #The epoch interval to save weights
+save_part:              #该方法中的变量名称需要保存。保存模型时，带有这些名称的变量将分别保存。需要保存的部分作为save_part下的列表给出。
+  - emb_func
+
+tag: ~

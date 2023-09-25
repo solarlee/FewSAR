@@ -1,0 +1,7 @@
+#该方法中使用的分类器信息。
+classifier:
+  name: RelationNet
+  kwargs:                     #分类器初始化中使用的参数必须保持名称与代码中的名称一致。
+    feat_dim: 64
+    feat_height: 3
+    feat_width: 3               #特征维度为64维，宽和高均为3

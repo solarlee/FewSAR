@@ -1,0 +1,31 @@
+#修改时将自己写的yaml配置文件添加到此目录中
+includes:
+  - headers/data.yaml
+  - headers/device.yaml
+  - headers/misc.yaml
+  - headers/model.yaml
+  - headers/optimizer.yaml
+  - classifiers/RelationNet.yaml
+  - backbones/Conv64F.yaml
+
+#分类器信息
+classifier:
+  name: RelationNet
+  kwargs:                    #分类器初始化中使用的参数必须保持名称与代码中的名称一致。
+    feat_dim: 64
+    feat_height: 3
+    feat_width: 3            #特征维度为64维，宽和高均为3
+
+#骨干网信息
+backbone:
+  name: Conv64F           #骨干的名称需要匹配Libfewshot中实现的骨干的情况。
+  kwargs:                   #骨干网中使用的参数必须保持名称与代码中的名称一致。
+    is_flatten: False       #默认值为false，如果为true，则返回Flatten后的特征向量。
+    is_feature: False        #默认值为false，如果为true，则返回主干网中每个块的输出。
+    leaky_relu: False
+    negative_slope: 0.2
+    last_pool: False
+    maxpool_last2: False
+
+device_ids: 0               #设置使用的GPU的id
+episode_size: 1

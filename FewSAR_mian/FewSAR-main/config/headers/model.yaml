@@ -1,0 +1,23 @@
+#该文件中定义了训练模型的相关配置。
+epoch: 50          #训练期间Loop的epoch次数。
+test_epoch: 5      #测试过程中的epoch数。
+
+parallel_part:
+  - emb_func
+
+pretrain_path: ~    #预训练权重的路径。在训练开始时，将首先检查此设置。如果不是空的，则目标路径的预训练权重将被加载到当前训练的主干中。
+resume: False          #如果设置为True，则从默认地址读取训练状态，以支持持续的训练。
+
+# few shot settings
+way_num: 5              #训练期间的类别数。
+shot_num: 1       #训练期间每类抽取的样本数
+query_num: 15           #训练时抽取的查询样本数。
+test_way: ~         # use ~ -> test_* = *_num，测试过程中的类别数。如果未指定，则将way_num分配给test_way。
+test_shot: ~        #测试过程中每类的样本数。如果未指定，则将shot_num分配给test_way。
+test_query: ~        #测试过程中的查询数。如果未指定，则将query_num分配给test_way。
+episode_size: 1      #每次用于网络训练的任务/episode数量。
+train_episode: 100     #训练期间每个epoch的任务数量。
+test_episode: 100       #测试期间每个时期的任务数量。
+
+# general model setting
+batch_size: 128          #预训练时使用的batch大小。在某些方法中，此属性是没有用的。
