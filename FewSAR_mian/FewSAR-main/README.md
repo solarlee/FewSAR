@@ -27,11 +27,6 @@ Rui Zhang, Ziqi Wang, Yang Li, Jiabao Wang, Zhiteng Wang. In arXiv 2023.<br>
 
 
 
-## Quick Installation
-
-Please refer to [install.md](https://libfewshot-en.readthedocs.io/en/latest/install.html)([安装](https://libfewshot-en.readthedocs.io/zh_CN/latest/install.html)) for installation.
-
-Complete tutorials can be found at [document](https://libfewshot-en.readthedocs.io/en/latest/)([中文文档](https://libfewshot-en.readthedocs.io/zh_CN/latest/index.html)).
 
 ## License
 This project is licensed under the MIT License. See LICENSE for more details.
